@@ -1,0 +1,24 @@
+{"level":"info","message":"GET /user/ffRb5ZK9bVZoOX5TwhJUkbaC86G3","service":"user-service"}
+{"level":"warn","message":"User undefined not found.","service":"user-service"}
+{"level":"info","message":"GET /user/ffRb5ZK9bVZoOX5TwhJUkbaC86G3","service":"user-service"}
+{"level":"warn","message":"User undefined not found.","service":"user-service"}
+{"level":"info","message":"GET /user/ffRb5ZK9bVZoOX5TwhJUkbaC86G3","service":"user-service"}
+{"level":"info","message":"User undefined retrieved successfully.","service":"user-service"}
+{"level":"info","message":"GET /user/filters: userId=ffRb5ZK9bVZoOX5TwhJUkbaC86G3","service":"user-service"}
+{"level":"info","message":"Returning 1 filters for user ffRb5ZK9bVZoOX5TwhJUkbaC86G3.","service":"user-service"}
+{"level":"info","message":"POST /user: {\"userId\":\"ffRb5ZK9bVZoOX5TwhJUkbaC86G3\",\"userName\":\"Anomitro Paul\"}","service":"user-service"}
+{"level":"warn","message":"User ffRb5ZK9bVZoOX5TwhJUkbaC86G3 already exists.","service":"user-service"}
+{"level":"info","message":"GET /user/filters: userId=ffRb5ZK9bVZoOX5TwhJUkbaC86G3","service":"user-service"}
+{"level":"info","message":"Returning 1 filters for user ffRb5ZK9bVZoOX5TwhJUkbaC86G3.","service":"user-service"}
+{"level":"info","message":"GET /user/jobs: userId=ffRb5ZK9bVZoOX5TwhJUkbaC86G3","service":"user-service"}
+{"level":"info","message":"Search hashes: 1","service":"user-service"}
+{"level":"info","message":"Applied jobs count: 4","service":"user-service"}
+{"level":"info","message":"Returning 65 jobs for user ffRb5ZK9bVZoOX5TwhJUkbaC86G3.","service":"user-service"}
+{"level":"info","message":"GET /user/jobs: userId=ffRb5ZK9bVZoOX5TwhJUkbaC86G3","service":"user-service"}
+{"level":"info","message":"Search hashes: 1","service":"user-service"}
+{"level":"info","message":"Applied jobs count: 4","service":"user-service"}
+{"level":"info","message":"Returning 65 jobs for user ffRb5ZK9bVZoOX5TwhJUkbaC86G3.","service":"user-service"}
+{"level":"info","message":"POST /user/appliedJobs: userId=ffRb5ZK9bVZoOX5TwhJUkbaC86G3, jobId=663f29f612a9f0b9602e6964","service":"user-service"}
+{"level":"info","message":"JobSchema 663f29f612a9f0b9602e6964 applied successfully for user ffRb5ZK9bVZoOX5TwhJUkbaC86G3.","service":"user-service"}
+{"level":"info","message":"GET /user/filters: userId=ffRb5ZK9bVZoOX5TwhJUkbaC86G3","service":"user-service"}
+{"level":"info","message":"Returning 1 filters for user ffRb5ZK9bVZoOX5TwhJUkbaC86G3.","service":"user-service"}
