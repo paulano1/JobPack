@@ -11,7 +11,7 @@ userRoutes.post('/user', async (req, res) => {
     try {
         logger.info(`POST /user: ${JSON.stringify(req.body)}`);
         const { userId, userName } = req.body;
-        const searchHashes = [];
+        const searchHashes = ["98188d9976d32caf22346f13a25ddeca5e66cd5490386d57e119e8ca51f9c3e6"];
         const newUser = new User({ userId, userName, searchHashes });
         const existingUser = await User.findOne({ userId });
         if (existingUser) {
